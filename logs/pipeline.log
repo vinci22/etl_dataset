@@ -1,0 +1,112 @@
+2025-01-12 23:13:09,446 - Iniciando la etapa de Staging del pipeline ETL.
+2025-01-12 23:13:09,446 - Iniciando la descarga de datos desde Kaggle con kagglehub.
+2025-01-12 23:13:59,400 - Datos descargados temporalmente en: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1
+2025-01-12 23:13:59,401 - Carpeta de Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:13:59,402 - Iniciando validaci�n de calidad para: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv
+2025-01-12 23:14:01,911 - Archivo C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv contiene registros duplicados en las columnas importantes.
+2025-01-12 23:14:01,929 - Archivo C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv no pas� las validaciones de calidad.
+2025-01-12 23:14:01,929 - Datos almacenados en Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:14:01,930 - Etapa de Staging completada exitosamente.
+2025-01-12 23:14:01,930 - Iniciando la descarga de datos desde Kaggle con kagglehub.
+2025-01-12 23:14:02,159 - Datos descargados temporalmente en: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1
+2025-01-12 23:14:02,159 - Carpeta de Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:14:02,159 - Iniciando validaci�n de calidad para: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv
+2025-01-12 23:14:04,466 - Archivo C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv contiene registros duplicados en las columnas importantes.
+2025-01-12 23:14:04,483 - Archivo C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv no pas� las validaciones de calidad.
+2025-01-12 23:14:04,483 - Datos almacenados en Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:16:47,832 - Iniciando la etapa de Staging del pipeline ETL.
+2025-01-12 23:16:47,832 - Iniciando la descarga de datos desde Kaggle con kagglehub.
+2025-01-12 23:18:01,283 - Datos descargados temporalmente en: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1
+2025-01-12 23:18:01,284 - Carpeta de Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:18:01,284 - Iniciando validaci�n de calidad para: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv
+2025-01-12 23:18:03,483 - Archivo C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv contiene 20 registros duplicados en las columnas que deber�an ser clave �nica.
+2025-01-12 23:18:03,500 - Archivo C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv no pas� las validaciones de calidad.
+2025-01-12 23:18:03,500 - Datos almacenados en Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:18:03,500 - Etapa de Staging completada exitosamente.
+2025-01-12 23:18:03,500 - Iniciando la descarga de datos desde Kaggle con kagglehub.
+2025-01-12 23:18:03,746 - Datos descargados temporalmente en: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1
+2025-01-12 23:18:03,746 - Carpeta de Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:18:03,746 - Iniciando validaci�n de calidad para: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv
+2025-01-12 23:18:05,841 - Archivo C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv contiene 20 registros duplicados en las columnas que deber�an ser clave �nica.
+2025-01-12 23:18:05,856 - Archivo C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv no pas� las validaciones de calidad.
+2025-01-12 23:18:05,856 - Datos almacenados en Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:19:00,297 - Iniciando la etapa de Staging del pipeline ETL.
+2025-01-12 23:19:00,297 - Iniciando la descarga de datos desde Kaggle con kagglehub.
+2025-01-12 23:19:00,649 - Datos descargados temporalmente en: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1
+2025-01-12 23:19:00,649 - Carpeta de Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:19:00,649 - Iniciando validaci�n de calidad para: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv
+2025-01-12 23:19:02,187 - Archivo C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1\credit_card_transactions.csv pas� las validaciones de calidad en las columnas importantes (clave �nica).
+2025-01-12 23:19:02,202 - Archivo movido a Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12\credit_card_transactions.csv
+2025-01-12 23:19:02,202 - Datos almacenados en Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:19:02,202 - Etapa de Staging completada exitosamente.
+2025-01-12 23:19:02,202 - Iniciando la descarga de datos desde Kaggle con kagglehub.
+2025-01-12 23:19:02,487 - Datos descargados temporalmente en: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1
+2025-01-12 23:19:02,487 - Carpeta de Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:19:02,487 - Datos almacenados en Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:19:18,445 - Iniciando la etapa de transformaci�n de datos.
+2025-01-12 23:19:18,446 - Transformaci�n de datos completada exitosamente.
+2025-01-12 23:20:02,964 - Iniciando la etapa de transformaci�n de datos.
+2025-01-12 23:20:02,965 - Transformaci�n de datos completada exitosamente.
+2025-01-12 23:21:06,964 - Iniciando la etapa de transformaci�n de datos.
+2025-01-12 23:21:06,964 - Transformaci�n de datos completada exitosamente.
+2025-01-12 23:22:44,239 - Iniciando la transferencia de datos de Staging a RAW.
+2025-01-12 23:22:44,240 - Procesando archivo desde Staging: c:\Users\dario\Desktop\etl_dataset\etl\../data\staging\2025\01\12\credit_card_transactions.csv
+2025-01-12 23:23:10,480 - Archivo formateado y movido a RAW: c:\Users\dario\Desktop\etl_dataset\etl\../data\raw\2025\01\12\credit_card_transactions_formatted.csv
+2025-01-12 23:23:10,581 - Archivo original eliminado de Staging: c:\Users\dario\Desktop\etl_dataset\etl\../data\staging\2025\01\12\credit_card_transactions.csv
+2025-01-12 23:23:10,581 - Transferencia de datos completada exitosamente.
+2025-01-12 23:23:45,641 - Iniciando la etapa de transformaci�n de datos.
+2025-01-12 23:23:45,642 - Procesando archivo RAW: c:\Users\dario\Desktop\etl_dataset\etl\../data\raw\2025\01\12\credit_card_transactions_formatted.csv
+2025-01-12 23:23:50,868 - Error durante el procesamiento de datos RAW: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-01-12 23:23:50,868 - Error en la etapa de transformaci�n: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-01-12 23:27:03,360 - Iniciando la etapa de transformaci�n de datos.
+2025-01-12 23:27:03,360 - Procesando archivo RAW: c:\Users\dario\Desktop\etl_dataset\etl\../data\raw\2025\01\12\credit_card_transactions_formatted.csv
+2025-01-12 23:27:11,169 - Archivo procesado guardado en: c:\Users\dario\Desktop\etl_dataset\etl\../data\processed\2025\01\12\credit_card_transactions_formatted.parquet
+2025-01-12 23:27:11,236 - Transformaci�n de datos completada exitosamente.
+2025-01-12 23:28:47,268 - Iniciando la descarga de datos desde Kaggle con kagglehub.
+2025-01-12 23:28:47,670 - Datos descargados temporalmente en: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1
+2025-01-12 23:28:47,670 - Carpeta de Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:28:47,670 - Datos almacenados en Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:29:14,866 - Iniciando la descarga de datos desde Kaggle con kagglehub.
+2025-01-12 23:29:15,294 - Datos descargados temporalmente en: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1
+2025-01-12 23:29:15,294 - Carpeta de Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:29:15,294 - Datos almacenados en Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:30:40,330 - Iniciando la descarga de datos desde Kaggle con kagglehub.
+2025-01-12 23:30:40,734 - Datos descargados temporalmente en: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1
+2025-01-12 23:30:40,734 - Carpeta de Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:30:40,734 - Datos almacenados en Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:30:40,736 - Iniciando el pipeline ETL.
+2025-01-12 23:30:40,736 - Ejecutando la etapa de extracci�n a Staging.
+2025-01-12 23:30:40,736 - Iniciando la descarga de datos desde Kaggle con kagglehub.
+2025-01-12 23:30:40,981 - Datos descargados temporalmente en: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1
+2025-01-12 23:30:40,981 - Carpeta de Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:30:40,982 - Datos almacenados en Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:30:40,982 - Etapa de extracci�n a Staging completada exitosamente.
+2025-01-12 23:30:40,982 - Ejecutando la etapa de transformaci�n a Raw.
+2025-01-12 23:30:40,982 - Etapa de transformaci�n a Raw completada exitosamente.
+2025-01-12 23:30:40,982 - Ejecutando la etapa de procesamiento a Processed.
+2025-01-12 23:30:40,982 - Procesando archivo RAW: c:\Users\dario\Desktop\etl_dataset\etl\../data\raw\2025\01\12\credit_card_transactions_formatted.csv
+2025-01-12 23:30:48,740 - Archivo procesado guardado en: c:\Users\dario\Desktop\etl_dataset\etl\../data\processed\2025\01\12\credit_card_transactions_formatted.parquet
+2025-01-12 23:30:48,799 - Etapa de procesamiento a Processed completada exitosamente.
+2025-01-12 23:30:48,799 - Pipeline ETL completado exitosamente.
+2025-01-12 23:43:10,777 - Iniciando el pipeline ETL.
+2025-01-12 23:43:10,777 - Ejecutando la etapa de extracci�n a Staging.
+2025-01-12 23:43:10,777 - Iniciando la descarga de datos desde Kaggle con kagglehub.
+2025-01-12 23:43:11,102 - Datos descargados temporalmente en: C:\Users\dario\.cache\kagglehub\datasets\priyamchoksi\credit-card-transactions-dataset\versions\1
+2025-01-12 23:43:11,102 - Carpeta de Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:43:11,102 - Datos almacenados en Staging: c:\Users\dario\Desktop\etl_dataset\data\staging\2025\01\12
+2025-01-12 23:43:11,102 - Etapa de extracci�n a Staging completada exitosamente.
+2025-01-12 23:43:11,102 - Ejecutando la etapa de transformaci�n a Raw.
+2025-01-12 23:43:11,103 - Etapa de transformaci�n a Raw completada exitosamente.
+2025-01-12 23:43:11,103 - Ejecutando la etapa de procesamiento a Processed.
+2025-01-12 23:43:11,103 - Procesando archivo RAW: c:\Users\dario\Desktop\etl_dataset\etl\../data\raw\2025\01\12\credit_card_transactions_formatted.csv
+2025-01-12 23:43:18,148 - Archivo procesado guardado en: c:\Users\dario\Desktop\etl_dataset\etl\../data\processed\2025\01\12\credit_card_transactions_formatted.parquet
+2025-01-12 23:43:18,204 - Etapa de procesamiento a Processed completada exitosamente.
+2025-01-12 23:43:18,204 - Pipeline ETL completado exitosamente.
